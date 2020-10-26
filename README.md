@@ -1,5 +1,7 @@
 Official repository for TGI RabbitMQ, a series of videos produced by the RabbitMQ team.
 
+#FORK FOR Digital Ocean Kubernetes platform
+
 This show is inspired by [TGI Kubernetes](https://github.com/vmware-tanzu/tgik) - thank you! - with a couple of important differences:
 
 1. The last Friday of every month we ship a new episode.
